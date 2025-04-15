@@ -25,8 +25,8 @@ A Flask-based face recognition web application that supports face detection, reg
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/face-recognition-webapp
-cd face-recognition-webapp
+git clone https://github.com/SharvanCN1/Face_detection.git
+cd Face_detection 
 ```
 
 ### 2. Create and activate a virtual environment (optional but recommended)
